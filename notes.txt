@@ -1,0 +1,3 @@
+gcd -> min(a, b)
+                    a . b = gcd(a, b) . lcm(a, b)
+lcm -> max(a, b)
